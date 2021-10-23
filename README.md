@@ -1,4 +1,3 @@
-=============================
 Test Documentation Repository
 =============================
 This is a repository to experiment with the usage of RST for the documentation. 
